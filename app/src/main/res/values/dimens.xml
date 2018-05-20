@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="expandedTitleMargin">30dp</dimen>
+    <dimen name="backdrop_height">300dp</dimen>
+    <dimen name="tagline_spacing">8dp</dimen>
+    <dimen name="tagline_textsize">20sp</dimen>
+    <dimen name="tagline_padding">5dp</dimen>
+    <dimen name="activity_margin">10dp</dimen>
+    <dimen name="detail_text_size">15sp</dimen>
+
+    <dimen name="poster_height">180dp</dimen>
+    <dimen name="poster_width">116dp</dimen>
+    <dimen name="poster_margin">1dp</dimen>
+    <dimen name="text_margin">5dp</dimen>
+</resources>

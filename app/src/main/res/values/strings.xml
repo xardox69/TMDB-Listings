@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Dubizzle Application</string>
+
+
+    <string name="navigation_item_1"> Top TV shows</string>
+    <string name="navigation_item_2"> Top Movies</string>
+    <string name="series_title">Tv Shows</string>
+    <string name="movies_title">Movies</string>
+    <string name="loading_assets">Loading page</string>
+
+
+
+    <!-- details screen strings -->
+    <string name="synopsis">Synopsis: \n</string>
+    <string name="release_date">Release Date:   </string>
+
+    <!--Filter screen strings -->
+    <string name="lbl_filter">Filter</string>
+    <string name="max_text">Maxiumum year (yyyy)</string>
+    <string name="year_hint">yyyy</string>
+    <string name="min_text">Minimum Year(yyyy)</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_done">Done</string>
+    <string name="txt_reset">Reset</string>
+    <string name="txt_reset_desc">Rest button resets the filters!!!</string>
+
+    <!-- filter error messages -->
+    <string name="invalid_txt">Invalid input</string>
+    <string name="invalid_max">Invalid max date</string>
+    <string name="invalid_min">Invalid min date</string>
+    <string name="max_less">Max date cannot be less than minimum date</string>
+</resources>

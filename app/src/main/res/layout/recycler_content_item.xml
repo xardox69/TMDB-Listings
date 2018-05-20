@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="@dimen/poster_width"
+    android:layout_height="@dimen/poster_height"
+    android:layout_marginRight="@dimen/poster_margin"
+    android:layout_marginBottom="@dimen/poster_margin">
+
+    <ImageView
+        android:id="@+id/poster"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</LinearLayout>
