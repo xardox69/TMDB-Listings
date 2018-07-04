@@ -57,6 +57,8 @@ A simple Android application which shows TV Shows and Movies listings from TMDB.
 
 # Unit Testing
 Unit testing of all the presenter is done  as well as the instrumentation tests.
+  ![Code Coverage](https://drive.google.com/open?id=1rWF4XBKuM1z2flrQPpv_6Ca7bvnacOj2)
+
 
 
 # Feedback
