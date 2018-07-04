@@ -45,6 +45,14 @@ A simple Android application which shows TV Shows and Movies listings from TMDB.
  Shows the filters for date. `FilterActivity.java` is responsible for showing the filter screen.
  The `filter` package contains the files related to this.
  
+ **Libraries**
+*  [Retrofit2](http://square.github.io/retrofit/) for Rest API communication.
+*  [Glide](https://github.com/bumptech/glide) for image loading
+*  [Mockito](http://site.mockito.org) for mocking in test 
+ 
+ 
+ 
+ 
 
 
 # Unit Testing
